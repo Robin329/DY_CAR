@@ -1,5 +1,6 @@
 # DY_CAR
 Shanghai Deyan  Electronic Technology Co., Ltd.
+
 May 3
 Be familiar with the IAR environment, import the MSP432 SDK routines and compile, download the board test, use the TI XDS emulator and set the location where the emulator is installed. Import the Empty project template in the SDK. This template integrates all the 432 driver functions and APIs, and implements corresponding functions directly in the main function. It is very convenient.
 Speed ​​reducer motor speed measurement program consider using timer and capture device to test, because the encoder output signal is a square wave pulse, we can regularly measure the number of pulses in 1s and then according to the motor speed reduction ratio and no load speed, can determine the motor speed.
