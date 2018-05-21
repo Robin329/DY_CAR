@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>799210532</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\third_party\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\adc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\third_party\spiffs\lib\iar\m4f\spiffs.a</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\fpu.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\sw_crc.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\crc.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\types.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\inc\system_msp432e401y.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\shamd5.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\timer.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\udma.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\epi.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\inc\msp432e401y.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\pin_map.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\rom.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_msp432e401y_ewarm.pbi</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\rom_map.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\driverlib.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\can.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\uart.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\gpio.h</file>
+            <file>$PROJ_DIR$\Debug\List\empty.map</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\des.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\emac.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\cpu.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\watchdog.h</file>
+            <file>$PROJ_DIR$\iar\startup_msp432e401y_ewarm.c</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\eeprom.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\qei.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\systick.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\sysctl.h</file>
+            <file>$PROJ_DIR$\empty_msp432e401y.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\debug.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\aes.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\ssi.h</file>
+            <file>$PROJ_DIR$\system_msp432e401y.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\time32.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\empty.pbd</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\sysexc.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\flash.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\lib\iar\m4f\msp432e4_driverlib.a</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\comp.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\inc\msp.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_msp432e401y_ewarm.o</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\third_party\CMSIS\Include\core_cm4.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\pwm.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_msp432e401y.pbi</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\i2c.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\display\lib\display.arm4f</file>
+            <file>$PROJ_DIR$\Debug\Exe\empty.out</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\mpu.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\drivers\lib\drivers_msp432e4.arm4f</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\interrupt.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_msp432e401y.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\third_party\fatfs\lib\iar\m4f\fatfs.a</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\hibernate.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\devices\msp432e4\driverlib\usb.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>c:\ti\simplelink_msp432e4_sdk_2_10_00_17\source\ti\grlib\lib\iar\m4f\grlib.a</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 65 29</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\iar\startup_msp432e401y_ewarm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 21</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 70 26 49 74 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70 49 26 27 74 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system_msp432e401y.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 70 26 49 74 43 57 17 60 0 10 1 11</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60 27 70 49 17 57 26 74 43 11 0 10 1</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27 70 26 49 74 43 3 23 57 17 60 0 10 1 11 2 45 24 56 32 7 42 30 35 31 16 54 5 28 72 19 12 50 63 68 66 18 61 37 20 22 13 47 6 39 53 38 14 9 25 15 73 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 39 11 3 16 24 18 33 43 42 72 22 9 50 23 70 74 2 32 35 5 68 37 47 38 15 12 26 49 57 45 56 7 30 31 54 28 63 66 61 20 13 6 53 14 25 73 17 60 1 19 0 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\empty.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 40 36 59 69 64 75 4 67 71 55 46 58 8 44</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
