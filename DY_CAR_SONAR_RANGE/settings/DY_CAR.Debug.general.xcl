@@ -1,0 +1,15 @@
+"D:\IAR_Systems\Embedded_Workbench_8\arm\bin\armproc.dll" 
+
+"D:\IAR_Systems\Embedded_Workbench_8\arm\bin\armxds2.dll" 
+
+"D:\Desktop\DY_chassis\DY_CAR_SONAR_RANGE\Debug\Exe\DY_CAR.out" 
+
+--plugin "D:\IAR_Systems\Embedded_Workbench_8\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR_Systems\Embedded_Workbench_8\arm\config\debugger\TexasInstruments\MSP432E401Y.dmac" 
+
+--flash_loader "D:\IAR_Systems\Embedded_Workbench_8\arm\config\flashloader\TexasInstruments\FlashMSP432E401Y.board" 
+
+
+
+
